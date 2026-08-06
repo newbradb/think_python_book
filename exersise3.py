@@ -60,4 +60,3 @@ def validate_args_rectangle():
     
 read_user_input ()
 
-#symbol_user, count_user = validate_args()
