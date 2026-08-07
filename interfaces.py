@@ -8,6 +8,8 @@ def square(length):
     for i in range(4):
         forward(length)
         left(90)
-    turtle.done ()
+  
 
 square(100)
+square(150)
+turtle.done()
