@@ -11,5 +11,7 @@ reading 'Think Python'
 
 ## 4. Function and interfaces
 
-Wraping a piece of code into function is called **encapsulation**. 
-Scritp to draw two squares [here](https://github.com/newbradb/think_python_book/blob/main/interfaces.py)
+Wraping a piece of code into function is called **encapsulation**.
+Adding a parameter to a function is called **generalisation**.  
+Script to draw two squares [here](https://github.com/newbradb/think_python_book/blob/main/interfaces.py)
+
