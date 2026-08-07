@@ -8,3 +8,7 @@ reading 'Think Python'
 
 - simple print function and while statement
 [bottles_exercise](https://github.com/newbradb/think_python_book/blob/main/bottles.py)
+
+## 4. Function and interfaces
+
+Wraping a piece of code into function is called **encapsulation**. 
