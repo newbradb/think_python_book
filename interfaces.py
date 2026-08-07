@@ -4,12 +4,11 @@ from turtle import forward
 from turtle import left, right
 
 
-def square(length):
-    for i in range(4):
+def polygon(n, length):
+    angle = 360 /n
+    for i in range(n):
         forward(length)
-        left(90)
+        left(angle)
   
-
-square(100)
-square(150)
+polygon (n=11, length=30)
 turtle.done()
