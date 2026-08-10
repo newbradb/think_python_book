@@ -16,4 +16,11 @@ def arc(radius, angle):
     n = 30 
     length = arc_length / n
     step_angle = angle / n
-    polyline (n, length,)
+    polyline (n, length, step_angle)
+
+def circle (radius):
+    arc(radius, 360)
+
+polygon(n=20, length=9)
+arc (radius=70, angle=70)
+circle(radius=10)
