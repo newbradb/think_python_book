@@ -11,12 +11,12 @@ reading 'Think Python'
 
 ## 4. Function and interfaces
 
-Wraping a piece of code into function is called **encapsulation**. \
-Adding a parameter to a function is called **generalisation**. \
-Improwing the code without changing its behavious is called **refactoring** \
-- Script to draw a polygon is  [here](https://github.com/newbradb/think_python_book/blob/main/interfaces.py) \
-- Script to draw a circle is [here](https://github.com/newbradb/think_python_book/blob/main/approximating_circle.py) \
-- Script to draw a snail is [here](https://github.com/newbradb/think_python_book/blob/main/refactoring.py) \
+Wraping a piece of code into function is called **encapsulation**. 
+Adding a parameter to a function is called **generalisation**. 
+Improwing the code without changing its behavious is called **refactoring** 
+- Script to draw a polygon is  [here](https://github.com/newbradb/think_python_book/blob/main/interfaces.py) 
+- Script to draw a circle is [here](https://github.com/newbradb/think_python_book/blob/main/approximating_circle.py) 
+- Script to draw a snail is [here](https://github.com/newbradb/think_python_book/blob/main/refactoring.py) 
 ### Exercises
 - Exercise to draw a rectangle [here](https://github.com/newbradb/think_python_book/blob/main/rectangle.py) 
 
