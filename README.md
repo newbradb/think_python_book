@@ -25,4 +25,4 @@ The rest of drawing is too complicated for me.
 
 ## 5. Conditionals and recursion 
 
-**recursion** is one of the most intresting things that program can do. Here is simple [example]()
+**recursion** is one of the most intresting things that program can do. Here is simple [example](https://github.com/newbradb/think_python_book/blob/main/recursion.py)  
