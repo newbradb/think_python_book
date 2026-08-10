@@ -19,4 +19,4 @@ Improwing the code without changing its behavious is called **refactoring** \
 - Script to draw a snail is [here](https://github.com/newbradb/think_python_book/blob/main/refactoring.py) 
 **Exercises**
 - Exercise to draw a rectangle [here](https://github.com/newbradb/think_python_book/blob/main/rectangle.py) 
-
+test
