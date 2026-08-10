@@ -13,5 +13,7 @@ reading 'Think Python'
 
 Wraping a piece of code into function is called **encapsulation**.
 Adding a parameter to a function is called **generalisation**.  
-Script to draw polygon is  [here](https://github.com/newbradb/think_python_book/blob/main/interfaces.py)
+Script to draw a polygon is  [here](https://github.com/newbradb/think_python_book/blob/main/interfaces.py)
+Script to draw a circle is [here](https://github.com/newbradb/think_python_book/blob/main/approximating_circle.py)
+
 
