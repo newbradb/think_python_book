@@ -20,3 +20,4 @@ Improwing the code without changing its behavious is called **refactoring**
 ### Exercises
 - Exercise to draw a rectangle is [here](https://github.com/newbradb/think_python_book/blob/main/rectangle.py)  
 - Exercise to draw a rhombus is [here](https://github.com/newbradb/think_python_book/blob/main/rhombus.py) 
+- Exercise on generalization is [here](https://github.com/newbradb/think_python_book/blob/main/paralelogram.py)  
