@@ -16,7 +16,7 @@ Adding a parameter to a function is called **generalisation**. \
 Improwing the code without changing its behavious is called **refactoring** \
 - Script to draw a polygon is  [here](https://github.com/newbradb/think_python_book/blob/main/interfaces.py) \
 - Script to draw a circle is [here](https://github.com/newbradb/think_python_book/blob/main/approximating_circle.py) \
-- Script to draw a snail is [here](https://github.com/newbradb/think_python_book/blob/main/refactoring.py) 
-**Exercises**
+- Script to draw a snail is [here](https://github.com/newbradb/think_python_book/blob/main/refactoring.py) \
+### Exercises
 - Exercise to draw a rectangle [here](https://github.com/newbradb/think_python_book/blob/main/rectangle.py) 
-test
+
