@@ -22,3 +22,7 @@ Improwing the code without changing its behavious is called **refactoring**
 - Exercise to draw a rhombus is [here](https://github.com/newbradb/think_python_book/blob/main/rhombus.py) 
 - Exercise on generalization is [here](https://github.com/newbradb/think_python_book/blob/main/paralelogram.py)  
 The rest of drawing is too complicated for me. 
+
+## 5. Conditionals and recursion 
+
+**recursion** is one of the most intresting things that program can do. Here is simple [example]()
