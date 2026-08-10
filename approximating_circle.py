@@ -15,5 +15,4 @@ def circle (radius):
     polygon (n, length)
 
 circle (radius=30)
-turtle.speed = 0.02
 turtle.done()
