@@ -17,5 +17,11 @@ def paralelogram (n, s, angle ):
     forward(s)
     left(other_angle)
 
-paralelogram (60, 30, 50)
+def rectangle(wide, tall):
+    paralelogram(wide, tall, 90)
+
+def rombus (n, angle): 
+    paralelogram (n, n, angle )
+
+rombus(60, 50)
 turtle.done()
