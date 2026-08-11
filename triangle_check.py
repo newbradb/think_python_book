@@ -24,7 +24,7 @@ def validate_args():
     elif three.isdigit() !=1:
         print('Only integers allowed')
         exit ()
-    return one, two, three
+    return int(one), int(two), int(three)
 
 
 a, b, c = validate_args ()
