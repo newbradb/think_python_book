@@ -29,4 +29,5 @@ The rest of drawing is too complicated for me.
 
 ### Exercises 
 
-- print date [here](https://github.com/newbradb/think_python_book/blob/main/task1_recursion.py)  
+- print date is [here](https://github.com/newbradb/think_python_book/blob/main/task1_recursion.py)  
+- recursion example is [here](https://github.com/newbradb/think_python_book/blob/main/task_2_recursion.py)  
