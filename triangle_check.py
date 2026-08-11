@@ -7,6 +7,12 @@ def is_triangle (a , b, c):
         print('Not triangle')
     elif b > a + c:
         print('Not triangle')
+    elif c == a + b:
+            print('Degenerate triangle')
+    elif a == c + b:
+            print('Degenerate triangle')
+    elif b == a + c:
+            print('Degenerate triangle')
     else:
         print('Yes, this is suitable for triangle')
 
