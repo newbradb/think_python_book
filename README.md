@@ -29,4 +29,4 @@ The rest of drawing is too complicated for me.
 
 ### Exercises 
 
-- print date [here]()
+- print date [here](https://github.com/newbradb/think_python_book/blob/main/task1_recursion.py)  
