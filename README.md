@@ -31,3 +31,9 @@ The rest of drawing is too complicated for me.
 
 - print date is [here](https://github.com/newbradb/think_python_book/blob/main/task1_recursion.py)  
 - recursion example is [here](https://github.com/newbradb/think_python_book/blob/main/task_2_recursion.py)  
+
+## 6. Retrun values 
+
+**scafolding**  
+
+[factorial](https://github.com/newbradb/think_python_book/blob/main/factorial.py) example  
