@@ -34,6 +34,6 @@ The rest of drawing is too complicated for me.
 
 ## 6. Retrun values 
 
-**scafolding**  
+**scaffolding**  - minimal starter code or structure that provides working skeleton for a project and later can be removed.  
 
 [factorial](https://github.com/newbradb/think_python_book/blob/main/factorial.py) example  
