@@ -2,12 +2,8 @@ total = 0
 count = 0
 
 def has_e(word):
-    for i in word:
-        if 'e' in word or 'E' in word:
-            return True
-    return False
-
-
+    return 'e' in word or 'E' in word
+            
 for line in open ('words.txt'):
     word = line.strip()
     total += 1
