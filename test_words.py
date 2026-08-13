@@ -2,7 +2,7 @@ total = 0
 count = 0
 
 def has_e(word):
-    return 'e' in word or 'E' in word
+    return 'e' in word.lower()
             
 for line in open ('words.txt'):
     word = line.strip()
