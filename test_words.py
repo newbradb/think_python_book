@@ -3,7 +3,7 @@ count = 0
 
 def has_e(word):
     for i in word:
-        if i == 'E' or i == 'e':
+        if 'e' in word or 'E' in word:
             return True
     return False
 
