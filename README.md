@@ -39,3 +39,13 @@ The rest of drawing is too complicated for me.
 [factorial](https://github.com/newbradb/think_python_book/blob/main/factorial.py) example, variant with [raise](https://github.com/newbradb/think_python_book/blob/main/raise_factoryal.py)  
 
 Hypotenuse [function]()
+
+## 7. Iteration and search 
+
+- How to perfrom tests with dostring 
+
+```python
+from doctest import run_docstring_examples
+
+run_docstring_examples(uses_any, globals(), verbose=True)
+```
