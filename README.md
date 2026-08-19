@@ -53,3 +53,5 @@ run_docstring_examples(uses_any, globals(), verbose=True)
 - task with [uses_none](https://github.com/newbradb/think_python_book/blob/main/task_7_1.py)
 - task with [uses_only](https://github.com/newbradb/think_python_book/blob/main/task7_2.py)
 - task with [uses_all](https://github.com/newbradb/think_python_book/blob/main/task_7_3.py)
+- task with word [scoring](https://github.com/newbradb/think_python_book/blob/main/task_7_4.py)
+
