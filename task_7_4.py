@@ -35,26 +35,25 @@ def word_score(word, avaliable):
     >>> word_score('color', 'ACDLORT')
     5
     >>> word_score('cartload', 'ACDLORT')
-    15    
+    15
     """
     score = 0 
 
-    for letter in word.lower():
-            if letter not in avaliable.lower():
-                raise ValueError ('No letters avaliable in the word')
 
-    if len (word) == 4:
-        if avaliable.lower in word.lower():
-            score = 1
-
-    if len (word) > 4:
-         if avaliable.lower in word.lower():
-             score += 1
-
-    for i in word:
-        if i not in word.lower():
-            return False
-    score += 7
+    if len(word) == 4:
+        score = 1
+    else:
+        score = len (word)
+    
+    is_pangram = True
+    for letter in avaliable.lower():
+        if letter not in word.lower():
+            is_pangram = False
+    
+    if is_pangram:
+        score += 7
+    
+    return score
 
 
 run_docstring_examples (word_score, globals(), verbose=True)
