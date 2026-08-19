@@ -12,7 +12,7 @@ def check_word(word, avaliable, required):
     >>> check_word('told', 'ACDLORT', 'R')
     False
     >>> check_word('bee', 'ACDLORT', 'R')
-    False    
+    False
     """
     if len(word) <= 3:
         return False
