@@ -19,7 +19,9 @@ def check_word(word, avaliable, required):
     for letter in word:
         if letter not in required.lower():
             return False
+        
         elif letter in avaliable.lower():
             return True
+    return True
 
 run_docstring_examples (check_word, globals(), verbose=True)
