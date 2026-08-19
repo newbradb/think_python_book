@@ -22,4 +22,4 @@ def check_word(word, avaliable, required):
         elif letter in avaliable.lower():
             return True
 
-run_docstring_examples (check_word, globals(), Verbose=True)
+run_docstring_examples (check_word, globals(), verbose=True)
