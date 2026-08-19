@@ -30,11 +30,11 @@ def check_word(word, avaliable, required):
 def word_score(word, avaliable): 
     """Compute the score for acceptable word.
 
-    >>> word_score('card', ACDLORT)
+    >>> word_score('card', 'ACDLORT')
     1
-    >>> word_score('color', ACDLORT)
+    >>> word_score('color', 'ACDLORT')
     5
-    >>> word_score('cartload', ACDLORT)
+    >>> word_score('cartload', 'ACDLORT')
     15    
     """
     score = 0 
@@ -56,7 +56,5 @@ def word_score(word, avaliable):
             return False
     score += 7
 
-    
 
-
-run_docstring_examples (check_word, globals(), verbose=True)
+run_docstring_examples (word_score, globals(), verbose=True)
