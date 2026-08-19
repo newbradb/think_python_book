@@ -16,12 +16,14 @@ def check_word(word, avaliable, required):
     """
     if len(word) <= 3:
         return False
-    for letter in word:
-        if letter not in required.lower():
+
+    if required.lower() not in word.lower():
+        return False
+
+    for letter in word.lower():
+        if letter not in avaliable.lower():
             return False
-        
-        elif letter in avaliable.lower():
-            return True
+
     return True
 
 run_docstring_examples (check_word, globals(), verbose=True)
